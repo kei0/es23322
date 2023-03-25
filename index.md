@@ -1,37 +1,25 @@
----
-marp: true
-theme: base
-style: |
-    h1, h2, h3, h4, h5, header, footer {
-        color: black;
-    }
-    section {
-        background-color: white;
-        font-family: 'Yu Gothic UI';
-        color: black;
-    }
----
-![](images/エッジ勉強会_CF_23322_10.jpeg)
-![](images/エッジ勉強会_CF_23322_11.jpeg)
-![](images/エッジ勉強会_CF_23322_12.jpeg)
-![](images/エッジ勉強会_CF_23322_13.jpeg)
-![](images/エッジ勉強会_CF_23322_14.jpeg)
-![](images/エッジ勉強会_CF_23322_15.jpeg)
-![](images/エッジ勉強会_CF_23322_16.jpeg)
-![](images/エッジ勉強会_CF_23322_17.jpeg)
-![](images/エッジ勉強会_CF_23322_18.jpeg)
-![](images/エッジ勉強会_CF_23322_19.jpeg)
-![](images/エッジ勉強会_CF_23322_2.jpeg)
-![](images/エッジ勉強会_CF_23322_20.jpeg)
-![](images/エッジ勉強会_CF_23322_21.jpeg)
-![](images/エッジ勉強会_CF_23322_22.jpeg)
-![](images/エッジ勉強会_CF_23322_23.jpeg)
-![](images/エッジ勉強会_CF_23322_24.jpeg)
-![](images/エッジ勉強会_CF_23322_25.jpeg)
-![](images/エッジ勉強会_CF_23322_3.jpeg)
-![](images/エッジ勉強会_CF_23322_4.jpeg)
-![](images/エッジ勉強会_CF_23322_5.jpeg)
-![](images/エッジ勉強会_CF_23322_6.jpeg)
-![](images/エッジ勉強会_CF_23322_7.jpeg)
-![](images/エッジ勉強会_CF_23322_8.jpeg)
-![](images/エッジ勉強会_CF_23322_9.jpeg)
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
+![](images/10.png)
+![](images/11.png)
+![](images/12.png)
+![](images/13.png)
+![](images/14.png)
+![](images/15.png)
+![](images/16.png)
+![](images/17.png)
+![](images/18.png)
+![](images/19.png)
+![](images/20.png)
+![](images/21.png)
+![](images/22.png)
+![](images/23.png)
+![](images/24.png)
+![](images/25.png)
