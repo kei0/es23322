@@ -1,3 +1,16 @@
+---
+marp: true
+theme: base
+style: |
+    h1, h2, h3, h4, h5, header, footer {
+        color: black;
+    }
+    section {
+        background-color: white;
+        font-family: 'Yu Gothic UI';
+        color: black;
+    }
+---
 ![](images/エッジ勉強会_CF_23322_10.jpeg)
 ![](images/エッジ勉強会_CF_23322_11.jpeg)
 ![](images/エッジ勉強会_CF_23322_12.jpeg)
